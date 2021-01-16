@@ -15,15 +15,21 @@ Webpack, Babel
 
 jest, mocha, performance tuning(reduce assets, bundle sizes, image optimization, etc)
 
+UI design, SEO
+
 ## Backend
 PHP, Laravel, Ruby
 
-PHPUnit, Docker, docker-compose
+PHPUnit, Docker, docker-compose, CI by GitHub Actions
 
-MySQL
+MySQL, Redis
+
+Domain Driven Design
 
 ## Infrastructure
-AWS, Firebase
+AWS - EC2, ECS, Fargate, S3, CodeDeploy, ALB, CloudFront, IAM, RDS, ElastiCache, Lambda, Lambda@Edge, CDK
+
+Firebase - Auth, Function, Storage, Firestore
 
 # Profile
 https://meijin.dev/
