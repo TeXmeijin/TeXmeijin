@@ -6,10 +6,10 @@ meijin(名人)という名前で活動しています。TypeScriptが好きなWe
 
 # SNS/Blog
 
-## ポートフォリオサイトのようなもの
-https://meijin.me
+## Profile
+https://meijin.dev/
 
-## Qiita
+## Qiita(Technical Article Site)
 https://qiita.com/mejileben
 
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/mejileben/posts.svg)](http://qiita.com/mejileben) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/mejileben/contributions.svg)](http://qiita.com/mejileben) [![My Qiita followers](https://qiita-badge.apiapi.app/s/mejileben/followers.svg)](http://qiita.com/mejileben)
