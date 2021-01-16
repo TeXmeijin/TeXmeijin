@@ -1,13 +1,34 @@
-# 自己紹介
-
 meijin(名人)という名前で活動しています。TypeScriptが好きなWebフルスタックエンジニアです。
 
-略歴は、2016年奈良高専情報工学科卒業後、株式会社LIFULLに入社し、AWS(EC2, EMR, Route53, S3等)やSymfony(PHP)を始めとするHOME'S全般の開発を色々させていただいた後、2019年3月から株式会社NoSchoolでCTOを務めています。
+# Career
+
+- 2011-2016 奈良高専情報工学科(Nara National College Of Technology, Department of Computer Science)
+- 2016-2019 株式会社LIFULL Webエンジニア(Web engineer of LIFULL inc.)
+- 2019-now  株式会社NoSchool CTO(CTO of NoSchoo.inc)
+
+# Skill
+
+## Frontend
+TypeScript, Scss, HTML, Nuxt.js, Next.js
+
+Webpack, Babel
+
+jest, mocha, performance tuning(reduce assets, bundle sizes, image optimization, etc)
+
+## Backend
+PHP, Laravel, Ruby
+
+PHPUnit, Docker, docker-compose
+
+MySQL
+
+## Infrastructure
+AWS, Firebase
+
+# Profile
+https://meijin.dev/
 
 # SNS/Blog
-
-## Profile
-https://meijin.dev/
 
 ## Qiita(Technical Article Site)
 https://qiita.com/mejileben
