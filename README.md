@@ -36,7 +36,7 @@ https://meijin.dev/
 
 # SNS/Blog
 
-## Qiita(Technical Article Site)
+## Qiita
 https://qiita.com/mejileben
 
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/mejileben/posts.svg)](http://qiita.com/mejileben) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/mejileben/contributions.svg)](http://qiita.com/mejileben) [![My Qiita followers](https://qiita-badge.apiapi.app/s/mejileben/followers.svg)](http://qiita.com/mejileben)
