@@ -1,5 +1,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=texmeijin&show_icons=true&theme=tokyonight"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texmeijin&layout=compact&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texmeijin&layout=compact&theme=tokyonight&hide=c%2b%2b">
 
 ## Hi there, I'm [meijin](https://meijin.dev/)!!
 
