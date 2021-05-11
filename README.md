@@ -7,7 +7,7 @@
 
 - 2011-2016 奈良高専情報工学科(Nara National College Of Technology, Department of Computer Science)
 - 2016-2019 株式会社LIFULL Webエンジニア(Web engineer of LIFULL inc.)
-- 2019-　　  株式会社NoSchool CTO(CTO of NoSchoo.inc)
+- 2019-　　  株式会社NoSchool CTO(CTO of NoSchool.inc)
 
 ## Technical Skill
 
